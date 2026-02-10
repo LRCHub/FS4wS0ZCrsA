@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Late Night step",
+  "base_artist": "JuggrixhSentana",
+  "createdAt": "2026-02-10T16:53:22.547902Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Late Night step (feat. BIM)",
+      "artist": "JuggrixhSentana",
+      "has_synced": false,
+      "path": "select/pl_01_Late_Night_step_(feat._BIM)_JuggrixhSentana.txt"
+    }
+  ]
+}
